@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta http-equiv="content-type" content="text/html ; charset=iso-8859-1" />
+
+<link rel="stylesheet" href="style.css">
+                       <!-- Cette balise indique l'encodage utilisé dans votre fichier .html ici utf-8 -->
+<title>endroits à visiter en Turquie</title>
+</head>
+<body>
+
+
+<h1>La Turquie</h1>
+<h2>Top 10 des endroits à visiter en Turquie un pays incroyable </h2>
+
+<p>Bonjour tout le monde, j'éspère que vous allez bien, voici le top 10 des endroits les plus visités en Turquie </p>
+
+
+<p>Sommaire:</p>
+<!-- Liste numérotée (= ordered list") -->
+<ol>
+<a href="#1" > <li> Le château de coton de Pamukkale, Denizli</li></a>
+<a href="#2"><li> Coruh, Erzurum</li><a>
+<a href="#3"><li> Paradis des oiseaux de Nallihan, Ankara</a></li>
+<a href="#4"><li> L’île de Kekova, Antalya</a></li>
+<a href="#5"><li> Uludag, Bursa</a></li>
+<a href="#6"><li> Plage de Patara, Antalya</a></li>
+<a href="#7"><li> Détroit du Bosphore, Istanbul</a></li>
+<a href="#8"><li> Cheminées de Fée de Cappadoce, Nevsehir</a></li>
+<a href="#9"><li> Éphèse, Izmir</a></li>
+<a href="#10"><li> Parc national de Küre, Kastamonu<a></li>
+
+
+</ol>
+<ol>
+
+<balise id="1"><h4><li>Le château de coton de Pamukkale, Denizli</li></h4></balise>                                                                     
+<p>Le nom de Pamukkale signifie “château de coton” en turc et c’est vrai que ça y ressemble pas mal.
+Cette étrange “cascade blanche” est à la base un phénomène 100% naturel. Déjà à la période romaine, ces grands bassins étaient utilisés pour le bain…
+ Hierapolis a d’ailleurs été construit à côté de ce site naturel qui existait déjà à l’époque (on parle d’il y a plus de 2000 ans quand même).</p>
+
+<img src="Pamukkale.jpg" title="Pamukkale">
+<u>image prise sur www.opnminded.com</U>
+
+<balise id="2"><h4><li>Coruh, Erzurum</li></h3></balise>
+<p>Cette splendide rivière du nord-est du pays présente un des débits les plus puissants au monde ; 
+sauvage et reculé, l’endroit permet aux plus téméraires venus visiter la Turquie, d’aller y faire du rafting ou du kayak.</p>
+
+<img src="coruh.jpg" title="Coruh">
+<u>image prise sur www.sondakika.com</U>
+
+<balise id="3"><h4><li>Paradis des oiseaux de Nallihan, Ankara</li></h4></balise> 
+<p>Lorsqu’on cherche que faire en Turquie, on peut s’arrêter dans cette réserve protégée aux collines multicolores,
+ abritant des centaines d’espèces de volatiles ! Situé en plein sur la Route de la Soie, cette zone est assurément un immanquable touristique dans ce pays.</p>
+
+<img src="Nallihan-kus-cenneti.jpg" title="Paradis des oiseaux">
+<u>image prise sur www.lutarsturizm.com</U>
+
+<balise id="4"><h4><li>L’île de Kekova, Antalya</li></h3></balise> 
+<p>Cette petite île inhabitée est située près du village de Simena. 
+On y trouve de jolies plages mais également les vestiges d’une ancienne cité, Apollonia, qui fut détruite par un tremblement de terre il y a plus de 1800 ans..
+ et qui, aujourd’hui se trouve sous les flots. Dans cette zone protégée, 
+ il est tout à fait interdit de pratiquer la plongée sous-marine afin d’éviter les pillages de ce site unique, 
+ mais il sera fort agréable de vous prélasser sur le sable et de faire le tour de l’île en bateau voire en kayak.</p>
+
+<img src="Kekova.jpg" title="Kekova">
+<u>image prise sur www.Wikimapia.org</U>
+
+<balise id="5"><h4><li>Uludag, Bursa</li></h3></balise> 
+<p>Cette montagne est la plus haute de l’Ouest turc ; en outre, il vous sera possible de profiter des joies de la glisse, une station y étant installée. 
+Mais le site est aussi connu pour ses rapaces, sa faune et sa flore extraordinaire, et présente l’avantage d’être facilement accessible depuis la ville de Bursa,
+ toute proche : deux téléphériques assurent la liaison directe avec cette station d’altitude qui n’a rien à envier à vos domaines skiables favoris. 
+ Un must, lorsqu’on vient visiter la Turquie !</p>
+
+<img src="Uludag.jpg" title="Uludag">
+<u>image prise sur www.memphistours.com</U>
+
+<balise id="6"><h4><li>Plage de Patara, Antalya</li></h3></balise> 
+<p>Il s’agit bel et bien d’une des plus belles plages de Turquie : longue de près de vingt kilomètres, la plage de Patara borde un site archéologique renommé,
+ librement accessible et dont les ruines sont toujours en cours d’exploration. Pas d’hôtel à proximité, l’endroit est une bulle de nature dans la Riviera turque !</p>
+
+<img src="fethiye-patara-plaji.jpg" title="Patara">
+<u>image prise sur www.enkisa.com</U>
+
+<balise id="7"><h4><li>Détroit du Bosphore, Istanbul</li></h3></balise> 
+<p>Istanbul, métropole gigantesque, est scindée en deux par le Bosphore : frontière entre deux mers, et deux continents. 
+Si vous venez visiter la Turquie et que vous êtes à Istanbul, il y a de fortes chances pour que vous vous rendiez sur les rives de ce détroit mythique.</p>
+
+<img src="détroit de bosphore.jpg" title="Bosphore">
+<u>image prise sur www.lemonde.fr</U>
+
+<balise id="8"><h4><li>Cheminées de Fée de Cappadoce, Nevsehir</li></h3></balise> 
+<p>Aussi surnommées « demoiselles coiffées« , les colonnes rocheuses façonnées par l’érosion de Cappadoce sont une attraction touristique majeure, 
+qui s’insèrent dans un paysage multicolore. Ici, on peut apercevoir d’étranges habitats troglodytes, incrustées dans les rochers !</p>
+
+<img src="Kapadokya.jpg" title="Cappadoce">
+<u>image prise sur www.tatilesintisi.com</U>
+
+<balise id="9"><h4><li>Éphèse, Izmir</li></h3></balise> 
+<p>Le site antique d’Éphèse abrite les ruines du temple d’Artémis : une des sept merveilles du monde. 
+On peut aussi y découvrir la spectaculaire bibliothèque de Celsius et d’autres attractions époustouflantes !</p>
+
+<img src="izmir ephese.jpg" title="Éphèse">
+<u>image prise sur www.tiquets.com</U>
+
+<balise id="10"><h4><li>Parc national de Küre, Kastamonu</li></h3></balise> 
+<p>Les montagnes Küre sont situées au coeur du parc national du même nom, au sud de la Mer Noire. 
+Ces montagnes sont célèbres auprès des randonneurs du monde entier : de nombreux sentiers vous permettront de visiter la Turquie en toute quiétude.</p>
+
+<img src="kure_np.jpg" title="Küre">
+<u>image prise sur www.nationalparksofturkey.com</U>
+</body>
+</html>
